@@ -1,4 +1,4 @@
-<h3>واجهات التطبيق</h3>
+<h3>Application interfaces </h3>
 
 <p align="center">
   <img src="screenshots/1.jpg" width="230" alt="Screen 1" />
